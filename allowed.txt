@@ -3,3 +3,4 @@ chrome.exe
 Code.exe
 Homes.exe
 SkypeApp.exe
+Skype.exe
