@@ -3,3 +3,4 @@ chrome.exe
 Code.exe
 mmc.exe
 Homes.exe
+Taskmgr.exe
