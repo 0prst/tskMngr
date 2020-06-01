@@ -1,0 +1,4 @@
+explorer.exe
+chrome.exe
+Code.exe
+Taskmgr.exe
