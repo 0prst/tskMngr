@@ -5,3 +5,4 @@ Homes.exe
 SkypeApp.exe
 Skype.exe
 WinRAR.exe
+StartMenuExperienceHost.exe
