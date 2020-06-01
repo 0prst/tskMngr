@@ -4,3 +4,4 @@ Code.exe
 Homes.exe
 SkypeApp.exe
 Skype.exe
+WinRAR.exe
